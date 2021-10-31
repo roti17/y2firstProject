@@ -1,4 +1,4 @@
-Click==0.4.4
+Click==8.0.1
 configparser==5.0.2
 Flask==2.0.1
 Flask-Login==0.5.5
